@@ -32,4 +32,5 @@
 ---
 
 ## 🗣 Quote
-> *"Everything happens for a reason."*
+> *"Who Never Tries Never Fail, And Who Never Fails Never Learn."*
+By Me
