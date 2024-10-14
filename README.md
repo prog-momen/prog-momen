@@ -2,10 +2,6 @@
 
 ## 🚀 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prog-momen&layout=compact&theme=dark)
-![GitHub followers](https://img.shields.io/github/followers/prog-momen?style=social)
-![GitHub stars](https://img.shields.io/github/stars/prog-momen?style=social)
-![Python](https://img.shields.io/badge/Code-Python-blue)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 
 ## 🏆 [Momen]'s GitHub Stats
 ![Momen's GitHub stats](https://github-readme-stats.vercel.app/api?username=prog-momen&show_icons=true&theme=dark)
@@ -27,11 +23,6 @@
 
 ## 🔥 Current Streak:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prog-momen)](https://git.io/streak-stats)
-
----
-
-## 📈 Contribution Graph:
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=redical)
 
 ---
 
