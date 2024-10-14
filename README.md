@@ -1,8 +1,7 @@
 # Hi 👋, I am [Momen] 🚀 💡 ❤️ 🚴‍♂️
 
 ## 🚀 Most Used Languages:
-![Top Langs]![prog-momen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prog-momen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact))
-
+![prog-momen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prog-momen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## 🏆 [Momen]'s GitHub Stats
 ![Momen's GitHub stats](https://github-readme-stats.vercel.app/api?username=prog-momen&show_icons=true&theme=dark)
 
