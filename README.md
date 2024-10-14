@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?prog-momen=prog-momen&layout=compact&theme=radical)
 
 ## 🏆 [Momen]'s GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Momen's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-actual-username&show_icons=true&theme=dark)
 
 ---
 
