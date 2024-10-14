@@ -3,8 +3,7 @@
 ## 🚀 Most Used Languages:
 ![prog-momen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prog-momen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## 🏆 [Momen]'s GitHub Stats
-![Momen's GitHub stats](https://github-readme-stats.vercel.app/api?username=prog-momen&show_icons=true&theme=dark)
-
+![prog-momen's Stats](https://github-readme-stats.vercel.app/api?username=prog-momen&theme=onedark&show_icons=true&hide_border=false&count_private=false)
 ---
 
 ### 🔧 Tech Skills:
@@ -21,8 +20,7 @@
 ---
 
 ## 🔥 Current Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prog-momen)](https://git.io/streak-stats)
-
+![prog-momen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prog-momen&theme=onedark&hide_border=false)
 ---
 
 ## 🗣 Quote
