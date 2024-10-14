@@ -6,6 +6,11 @@
 ![prog-momen's Stats](https://github-readme-stats.vercel.app/api?username=prog-momen&theme=onedark&show_icons=true&hide_border=false&count_private=false)
 ---
 
+## 🔥 Current Streak:
+![prog-momen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prog-momen&theme=onedark&hide_border=false)
+
+
+---
 ### 🔧 Tech Skills:
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
@@ -17,10 +22,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black" />
 </p>
 
----
-
-## 🔥 Current Streak:
-![prog-momen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prog-momen&theme=onedark&hide_border=false)
 ---
 
 ## 🗣 Quote
