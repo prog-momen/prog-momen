@@ -1,8 +1,7 @@
 # Hi 👋, I am [Momen] 🚀 💡 ❤️ 🚴‍♂️
 ## My Social Media
 <p align="left">
-<a href="https://www.instagram.com/prog_momen1/" ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AInstagram_logo_2016.svg&psig=AOvVaw3sE9H0ne4pDBAuQn7UZzXF&ust=1729067269647000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiggdX7j4kDFQAAAAAdAAAAABAE" /></a>
-
+<a href="https://www.instagram.com/prog_momen1/" target="_blank" ><img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AInstagram_logo_2016.svg&psig=AOvVaw3sE9H0ne4pDBAuQn7UZzXF&ust=1729067269647000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiggdX7j4kDFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)" /></a>
 
 </p>
 ## 🚀 Most Used Languages:
