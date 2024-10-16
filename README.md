@@ -1,9 +1,4 @@
 # Hi 👋, I am [Momen] 🚀 💡 ❤️ 🚴‍♂️
-## My Social Media
-<p align="left">
-<a href="https://www.instagram.com/prog_momen1/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a>
-
-</p>
 ## 🚀 Most Used Languages:
 ![prog-momen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prog-momen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## 🏆 [Momen]'s GitHub Stats
