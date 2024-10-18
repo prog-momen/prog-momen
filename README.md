@@ -5,7 +5,7 @@
 ![prog-momen's Stats](https://github-readme-stats.vercel.app/api?username=prog-momen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🔥 Current Streak:
-![prog-momen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prog-momen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![prog-momen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prog-momen&theme=vue-dark&hide_border=true)
 
 ---
 ### 🔧 Tech Skills:
