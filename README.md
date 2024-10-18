@@ -5,9 +5,7 @@
 ![prog-momen's Stats](https://github-readme-stats.vercel.app/api?username=prog-momen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🔥 Current Streak:
-![prog-momen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prog-momen&theme=vue-dark&hide_border=true)
-
----
+![prog-momen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prog-momen&theme=vue-dark&hide_border=true)---
 ### 🔧 Tech Skills:
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
