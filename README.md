@@ -5,8 +5,7 @@
 ![prog-momen's Stats](https://github-readme-stats.vercel.app/api?username=prog-momen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🔥 Current Streak:
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=prog-momen&theme=dark" alt="GitHub Streak" /></a>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prog-momen&theme=dark&hide_border=true&border_radius=6&card_width=500&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 ---
 ### 🔧 Tech Skills:
 <p align="left">
