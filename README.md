@@ -1,12 +1,9 @@
 # Hi 👋, I am [Momen] 🚀 💡 ❤️ 🚴‍♂️
 ## 🚀 Most Used Languages:
-![prog-momen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prog-momen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-## 🏆 [Momen]'s GitHub Stats
+![prog-momen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prog-momen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)## 🏆 [Momen]'s GitHub Stats
 ![prog-momen's Stats](https://github-readme-stats.vercel.app/api?username=prog-momen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🔥 Current Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prog-momen&theme=dark&hide_border=true&border_radius=6&card_width=500&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
----
+![prog-momen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prog-momen&theme=vue-dark&hide_border=true)---
 ### 🔧 Tech Skills:
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
