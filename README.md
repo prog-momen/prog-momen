@@ -8,7 +8,7 @@
 
 
 ###
-<div data-importer="stats" align="center">
+<div align="center">
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=prog-momen)](https://github.com/FajarKim/github-readme-profile)
 </div>
   
