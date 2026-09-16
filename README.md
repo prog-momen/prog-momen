@@ -8,8 +8,11 @@
 
 
 ###
+<div data-importer="stats" align="center">
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=prog-momen)](https://github.com/FajarKim/github-readme-profile)
-###
+</div>
+  
+  ###
 ###### 🔧 Tech Skills:
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
