@@ -2,15 +2,14 @@
 
 ###
 
-<div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=prog-momen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+
 
 
 ###
-<div align="center">
+
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=prog-momen)](https://github.com/FajarKim/github-readme-profile)
-</div>
+
   
   ###
 ###### 🔧 Tech Skills:
