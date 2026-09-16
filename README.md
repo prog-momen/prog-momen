@@ -1,14 +1,23 @@
 # Hi 👋, I am Momen 🚀 💡
 
-## 🚀 Most Used Languages:
-![prog-momen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prog-momen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-## 🏆 [Momen]'s GitHub Stats
-![prog-momen's Stats](https://github-readme-stats.vercel.app/api?username=prog-momen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-## 🔥 Current Streak:
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
-![prog-momen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prog-momen&theme=vue-dark&hide_border=true)
+###
 
-### 🔧 Tech Skills:
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=prog-momen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/prog-momen/prog-momen/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prog-momen/prog-momen/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prog-momen/prog-momen/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prog-momen/prog-momen/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###### 🔧 Tech Skills:
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white" />
